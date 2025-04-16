@@ -5,8 +5,6 @@ Este proyecto es un conversor de monedas hecho en Java usando Maven, la API [Exc
 ## 🛠 Tecnologías usadas
 
 - Java 21
-- Maven
-- HttpClient
 - Gson
 - ExchangeRate API
 
@@ -31,8 +29,8 @@ Permite convertir entre diferentes monedas latinoamericanas (y USD), mostrando t
 ## 🖥️ ¿Cómo usarlo?
 
 1. Clona el repositorio:
-   ```bash
+   ```
    git clone https://github.com/tuUsuario/ConversorMonedas.git
-
+   ```
 2. Abre el proyecto en IntelliJ
 3. Ejecuta la clase ConversorApp desde src/main/java/com/conversor/ConversorApp.java
